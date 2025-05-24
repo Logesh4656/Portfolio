@@ -1,6 +1,6 @@
 import video1 from '../Img-Vid/g5.mp4'
 import video2 from '../Img-Vid/ge1.mp4'
-import video3 from '../Img-Vid/vishwa.mp4'
+import video3 from '../Img-Vid/vishwa2.mp4'
 
 export const projects = [
   {
